@@ -62,6 +62,7 @@ DNS 2: 45.90.30.46
 Save:
 
 Tap Save to apply the settings.
+
 For iOS (iPhone/iPad)
 Open Settings:
 Go to Settings > Wi-Fi, and tap the i icon next to your connected network.

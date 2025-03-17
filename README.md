@@ -63,7 +63,7 @@ Save:
 
 Tap Save to apply the settings.
 
-For iOS (iPhone/iPad)
+#For iOS (iPhone/iPad)
 Open Settings:
 Go to Settings > Wi-Fi, and tap the i icon next to your connected network.
 Modify DNS:

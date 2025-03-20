@@ -1,4 +1,4 @@
-# SoladDNS
+# OmadaDNS Modified
 SoladDNS by Students: The Ultimate Solution for Unblocked Content, Ad and Tracking Bypass
 
 SoladDNS, developed by NextDNS, is a powerful DNS service designed to help students, particularly those in middle school, bypass restrictions and enjoy a more open, private, and secure browsing experience. With many schools implementing content filtering systems and monitoring tools like GoGuardian, SoladDNS offers a way to regain control over your internet access.

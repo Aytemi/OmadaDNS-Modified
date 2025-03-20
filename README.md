@@ -58,6 +58,7 @@ Save: Tap Save to apply the settings.
 Test the Connection
 Once you've configured the DNS addresses 45.90.28.46 and 45.90.30.46, you should be able to access unblocked content, bypass network restrictions, and enjoy a smoother browsing experience without ads or trackers.
 
-Conclusion
+
+
 By setting up OmadaDNS-Modified with the DNS addresses 45.90.28.46 and 45.90.30.46, students can bypass content filters, block ads, and protect their privacy while enjoying an unrestricted internet experience. OmadaDNS-Modified by NextDNS offers an easy-to-use and customizable solution for improving online freedom, security, and browsing speed.
 
